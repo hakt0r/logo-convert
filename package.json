@@ -1,0 +1,25 @@
+{
+  "name": "logo-convert",
+  "version": "1.0.0",
+  "description": "A simple logo converter for webApp as a demo for FbW14",
+  "main": "index.js",
+  "bin": { "logo-convert": "index.js" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakt0r/logo-convert.git"
+  },
+  "keywords": [
+    "imagemagick",
+    "webapp",
+    "logo",
+    "converter",
+    "svg",
+    "png"
+  ],
+  "author": "anx <anx@hktr.de>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hakt0r/logo-convert/issues"
+  },
+  "homepage": "https://github.com/hakt0r/logo-convert#readme"
+}
